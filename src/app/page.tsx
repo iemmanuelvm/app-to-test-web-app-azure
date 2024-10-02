@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs
+            THIS IS APP FOR TEST WEB APP FROM DOCKER COMPOSE
           </a>
         </div>
       </main>
